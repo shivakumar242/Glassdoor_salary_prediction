@@ -1,4 +1,4 @@
-# 💼 Glassdoor Salary Prediction using Regression
+#  Glassdoor Salary Prediction using Regression
 
 ##  Project Overview
 This project aims to predict salaries of data-related roles listed on Glassdoor using multiple regression techniques. The dataset includes company ratings, job titles, experience levels, and other relevant features that influence salary.  
