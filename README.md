@@ -1,6 +1,6 @@
 #  Glassdoor Salary Prediction using Regression
 
-## 📘 Project Overview
+##  Project Overview
 This project aims to predict salaries of data-related roles listed on Glassdoor using multiple regression techniques. The dataset includes company ratings, job titles, experience levels, and other relevant features that influence salary.  
 By performing data preprocessing, EDA, and regression modeling, the project provides insights into the most impactful factors affecting salary levels in the tech industry.
 
@@ -73,7 +73,7 @@ You can view and run the complete project in Google Colab here:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 **Shivakumar L R**  
 🎓 Master’s in Computer Science (AI & ML), Woolf University  
 🔗 [LinkedIn](https://www.linkedin.com/in/shivakumr-lr-0153ba2b1)  
