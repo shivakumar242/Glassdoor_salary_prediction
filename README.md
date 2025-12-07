@@ -4,7 +4,6 @@
 This project aims to predict salaries of data-related roles listed on Glassdoor using multiple regression techniques. The dataset includes company ratings, job titles, experience levels, and other relevant features that influence salary.  
 By performing data preprocessing, EDA, and regression modeling, the project provides insights into the most impactful factors affecting salary levels in the tech industry.
 
----
 
 ##  Objectives
 - To clean and preprocess the Glassdoor dataset for analysis.  
